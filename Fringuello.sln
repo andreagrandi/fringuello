@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fringuello", "Fringuello\Fringuello.csproj", "{08AB1E86-F762-414C-AD90-97D658219680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompactNetServ.Net.Json", "CompactNetServ.Net.Json\CompactNetServ.Net.Json.csproj", "{E760257A-E929-470C-A591-1A75B3975804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompactNTwitter", "CompactNTwitter\CompactNTwitter.csproj", "{8B5DF28C-7033-413D-8EDB-933A97BDADF0}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08AB1E86-F762-414C-AD90-97D658219680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AB1E86-F762-414C-AD90-97D658219680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08AB1E86-F762-414C-AD90-97D658219680}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{08AB1E86-F762-414C-AD90-97D658219680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08AB1E86-F762-414C-AD90-97D658219680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08AB1E86-F762-414C-AD90-97D658219680}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E760257A-E929-470C-A591-1A75B3975804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E760257A-E929-470C-A591-1A75B3975804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E760257A-E929-470C-A591-1A75B3975804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E760257A-E929-470C-A591-1A75B3975804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5DF28C-7033-413D-8EDB-933A97BDADF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5DF28C-7033-413D-8EDB-933A97BDADF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5DF28C-7033-413D-8EDB-933A97BDADF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5DF28C-7033-413D-8EDB-933A97BDADF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
